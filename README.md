@@ -38,3 +38,4 @@ This project was developed as part of a pioneer staff schedule for ID and Co. Li
 This Excel project helped streamline salary data analysis for ID and Co. Limited, providing valuable insights through efficient use of Excel functions. The application of conditional functions, such as SUMIF and MAXIFS, made it easier to extract meaningful information from large dataset.
 
 
+[Excel Functions 1 - Numbers.xlsx](https://github.com/user-attachments/files/17498334/Excel.Functions.1.-.Numbers.xlsx)
